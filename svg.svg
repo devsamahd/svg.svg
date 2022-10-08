@@ -3,7 +3,7 @@
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>.byReeven {
-                font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+                font-family: 'Press Start 2P';
                display:flex; flex-direction: column;
                 align-items: center;
                 justify-content: center;
@@ -34,7 +34,7 @@
                 color: #fff;
                 font-size: 5em;
                 letter-spacing: 8px;
-                font-family: "Lucida Console", Monaco, monospace;	
+                font-family: 'Press Start 2P' !important;	
                 font-weight: 400;
                 /*Create overlap*/
                 
@@ -222,14 +222,14 @@
                 }</style>
 <div class="byReevenContainer">
 <div class="byReeven">
-<h1>Hey, I'm</h1>
-<h1>Hey, I'm</h1>
-<h1>Hey, I'm</h1>
+<h1>HEY, I'M</h1>
+<h1>HEY, I'M</h1>
+<h1>HEY, I'M</h1>
 </div>
 <div class="byReeven">
-<h1>Samahd!</h1>
-<h1>Samahd!</h1>
-<h1>Samahd!</h1>
+<h1>SAMAHD!</h1>
+<h1>SAMAHD!</h1>
+<h1>SAMAHD!</h1>
 </div>
 </div>
 </div>
